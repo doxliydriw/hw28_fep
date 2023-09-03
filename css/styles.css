@@ -1,0 +1,11 @@
+body {
+  background-color: darkgray;
+}
+
+.row {
+  flex-wrap: nowrap;
+}
+
+#card-content {
+  border-radius: 5px;
+}
